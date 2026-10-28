@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 |#|Title|Modifier|
 |-|-----|--------|
 |1|Merely a Scratch|0|

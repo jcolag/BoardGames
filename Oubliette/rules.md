@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 John Colagioia <john@colagioia.net>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Open Oubliette
 
 Explore a dungeon!  Fight monsters!  Collect treasure!
